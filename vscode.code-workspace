@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "scripts-ad",
+			"path": "../scripts-ad/scripts-ad"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Users\\Martin\\OneDrive\\Git_vscode\\vscode"
+	}
+}
