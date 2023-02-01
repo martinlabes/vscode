@@ -6,6 +6,14 @@
 		{
 			"name": "scripts-ad",
 			"path": "../scripts-ad/scripts-ad"
+		},
+		{
+			"name": "azure-armdeployment",
+			"path": "../azure-armdeployment/azure-armdeployment"
+		},
+		{
+			"name": "azure-powershellscripts",
+			"path": "../azure-powershell/azure-powershellscripts"
 		}
 	],
 	"settings": {
