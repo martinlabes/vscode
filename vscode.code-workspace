@@ -18,6 +18,10 @@
 		{
 			"name": "azure-assessment",
 			"path": "../azure-assessmentscripts/azure-assessment"
+		},
+		{
+			"name": "azure-policy",
+			"path": "../azure-policy/azure-policy"
 		}
 	],
 	"settings": {
