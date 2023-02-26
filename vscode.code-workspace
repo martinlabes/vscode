@@ -21,6 +21,10 @@
 		},
 		{
 			"path": "../azure-deployment/azure-deployment"
+		},
+		{
+			"name": "repo-oktatemplate",
+			"path": "../okta-template/repo-oktatemplate"
 		}
 	],
 	"settings": {
